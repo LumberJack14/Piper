@@ -109,3 +109,58 @@
 	margin-left: 220px;
 	margin-right: 30px;
 }
+
+.team {
+	background: #EEEEEE;
+	margin-top: 50px;
+	padding-top: 40px;
+	padding-bottom: 120px;
+}
+
+.frow, .srow, .frow figcaption, .frow h6, .srow figcaption, .srow h6 {
+	display: flex;
+	justify-content: center;
+}
+
+.frow img {
+	margin-left: 110px;
+	margin-right: 110px;
+	margin-top: 40px;
+}
+
+.frow figcaption, .srow figcaption {
+	color: #007765;
+	font-family: Roboto;
+	font-style: normal;
+	font-size: 24px;
+	margin-top: 5px;
+}
+
+.frow h6, .srow h6 {
+	margin-top: 5px;
+	font-family: Roboto;
+	font-style: italic;
+	font-size: 16px;
+}
+
+.srow img {
+	margin-left: 110px;
+	margin-right: 110px;
+	margin-top: 130px;	
+}
+
+.bot {
+	background: #333333;
+}
+
+.bot p {
+	color: #FFFFFF;
+	width: 35%;
+	text-align: center;
+	font-family: Roboto;
+	font-size: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
